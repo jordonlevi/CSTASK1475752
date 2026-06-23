@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <federated_id>nejphj8m6d4wGyEy1p24kPt2cSfpWH1NKESO7QUta+E=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_cstask1475_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>jordon.makepeace@snc</sys_created_by>
+        <sys_created_on>2026-06-23 10:54:50</sys_created_on>
+        <sys_id>d7afc157c3a18f50d027b453e40131cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_cstask1475_0.user</sys_name>
+        <sys_package display_value="CSTASK1475752" source="x_snc_cstask1475_0">53afc157c3a18f50d027b453e4013166</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSTASK1475752">53afc157c3a18f50d027b453e4013166</sys_scope>
+        <sys_update_name>sys_user_role_d7afc157c3a18f50d027b453e40131cf</sys_update_name>
+        <sys_updated_by>jordon.makepeace@snc</sys_updated_by>
+        <sys_updated_on>2026-06-23 10:54:50</sys_updated_on>
+    </sys_user_role>
+</record_update>
